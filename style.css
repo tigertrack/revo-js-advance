@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+}
+
+#left{
+    border: 3px solid green;
+    height: 150px;
+    width: 45%;
+}
+
+#right{
+    border: 3px solid blue;
+    height: 150px;
+    width: 45%;
+}
